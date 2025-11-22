@@ -1,13 +1,13 @@
 
-# 🚗 Used Car Price Prediction Project: Rusty Bargain Service
+# Used Car Price Prediction Project: Rusty Bargain Service
 
-## 📜 Project Description
+## Project Description
 
 This project focuses on developing a high-performance **regression model** for the used car sales service **Rusty Bargain**. The goal is to provide customers with a **fast and highly accurate** market value estimate for their vehicle, delivered directly through a mobile application.
 
 The focus was placed on balancing two critical criteria for the application environment: **prediction quality** and **inference speed**.
 
-## 🎯 Key Objectives
+## Key Objectives
 
 The Machine Learning model was designed to meet the following business and technical requirements:
 
@@ -15,7 +15,7 @@ The Machine Learning model was designed to meet the following business and techn
 2.  **Prediction Speed:** Ensure the inference time is fast enough for a smooth user experience in a mobile application.
 3.  **Comparative Modeling:** Evaluate and compare multiple models, including Gradient Boosting approaches (CatBoost, LightGBM, XGBoost) and Linear models.
 
-## 🛠️ Methodology and Modeling
+## Methodology and Modeling
 
 ### 1. Preprocessing and Feature Engineering
 
@@ -34,7 +34,7 @@ An exhaustive comparison was performed across various algorithms, paying close a
 | LightGBM Regressor | 1850.15 | 0.35 |
 | Linear Regression | 2928.10 | 0.01 |
 
-## 📈 Results and Conclusion
+## Results and Conclusion
 
 ### Winning Model Selection
 
@@ -44,7 +44,7 @@ The **XGBoost Regressor** was selected as the final and recommended model for ap
 * **Acceptable Speed:** Although CatBoost was marginally faster, XGBoost's prediction time (0.39 seconds) is **sufficiently fast** for a mobile application environment where an instant estimate is required.
 * **Business Impact:** By providing the most accurate value estimation, the implementation of XGBoost ensures that Rusty Bargain builds strong customer trust and maximizes its commercial success.
 
-## 💻 Technologies Used
+## Technologies Used
 
 * **Language:** Python
 * **Key Libraries:**
