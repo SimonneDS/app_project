@@ -1,6 +1,3 @@
-Aquí tienes un README completo y profesional en **inglés** para tu proyecto de **Predicción de Precios de Coches Usados** (Rusty Bargain), listo para copiar y pegar.
-
-***
 
 # 🚗 Used Car Price Prediction Project: Rusty Bargain Service
 
